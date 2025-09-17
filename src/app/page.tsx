@@ -70,9 +70,8 @@ export default function HomePage() {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-bold text-gray-900 mb-4 sm:mb-6 leading-tight">
             Rumah Bank Sampah 
             <span className="block bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-              PKS Terantam Masa Depan
+              PKS Terantam PTPN IV
             </span>
-            Masa Depan
           </h1>
           <p className="text-base sm:text-lg lg:text-xl text-gray-600 mb-8 sm:mb-10 leading-relaxed max-w-3xl mx-auto px-2">
             Revolusi pengelolaan sampah dengan teknologi AI dan blockchain. Ubah sampah rumah tangga menjadi aset digital yang menguntungkan dengan sistem yang transparan dan aman.
